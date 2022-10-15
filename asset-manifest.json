@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/desafio-lt-pizzeria/static/css/main.f5701200.css",
-    "main.js": "/desafio-lt-pizzeria/static/js/main.de94232a.js",
+    "main.js": "/desafio-lt-pizzeria/static/js/main.56c5eda3.js",
     "static/media/carousel_pizza_1.jpg": "/desafio-lt-pizzeria/static/media/carousel_pizza_1.941f68299c035de481ba.jpg",
     "static/media/carousel_pizza_2.jpg": "/desafio-lt-pizzeria/static/media/carousel_pizza_2.84f305e675704262e406.jpg",
     "static/media/carousel_pizza_3.jpg": "/desafio-lt-pizzeria/static/media/carousel_pizza_3.fcdef7c23c5db5b08ae2.jpg",
     "static/media/not-found-pizza.jpg": "/desafio-lt-pizzeria/static/media/not-found-pizza.555b180ce7ba24697488.jpg",
     "index.html": "/desafio-lt-pizzeria/index.html",
     "main.f5701200.css.map": "/desafio-lt-pizzeria/static/css/main.f5701200.css.map",
-    "main.de94232a.js.map": "/desafio-lt-pizzeria/static/js/main.de94232a.js.map"
+    "main.56c5eda3.js.map": "/desafio-lt-pizzeria/static/js/main.56c5eda3.js.map"
   },
   "entrypoints": [
     "static/css/main.f5701200.css",
-    "static/js/main.de94232a.js"
+    "static/js/main.56c5eda3.js"
   ]
 }
